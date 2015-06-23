@@ -1,2 +1,3 @@
 # EWEPE15
-web environment EPE 2015
+web environment demo
+this is a demo og git
